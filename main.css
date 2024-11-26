@@ -1,0 +1,584 @@
+.responsiv {
+    display: flex;
+}
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.Shop {
+    background-image: url("./img/modern-living-room-interior-with-sofa-green-plants-lamp-table-dark-wall-background\ 1.png");
+    background-size: 100%;
+    height: 1200px;
+    margin: 0 auto;
+    background-repeat: no-repeat;
+}
+
+.Shop1 {
+    background-image: url("./img/shop.png");
+    background-size: 100%;
+    height: 208px;
+    margin: 0 auto;
+    background-repeat: no-repeat;
+}
+
+.fsdfdsfsd {
+    width: 1090px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.fghjk {
+    display: flex;
+    justify-content: end;
+}
+
+
+.savol1 {
+    width: 32px;
+    height: 36.57px;
+
+
+}
+.savol2{
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 28.15px;
+    color: white;
+
+
+}
+
+.asfdsdf {
+
+    gap: 25px;
+}
+
+.Bring {
+    font-size: 82px;
+    font-weight: 700;
+    line-height: 96.19px;
+    color: rgba(255, 255, 255, 1);
+    align-items: center;
+    margin-top: 100px;
+}
+
+.Bring1 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.Bring2 {
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+    align-items: center;
+}
+
+.Bring3 {
+    width: 463px;
+    height: 71px;
+    padding: 24px;
+    gap: 8px;
+    border-radius: 50px;
+    border: 1px;
+}
+
+.box1 {
+    justify-content: space-evenly;
+}
+
+.box {
+    width: 420px;
+    height: 40px;
+    padding: 24px;
+    gap: 8px;
+    border-radius: 50px;
+    background: rgba(255, 255, 255, 0.2);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.inp {
+    width: 256px;
+    height: 40px;
+    border-radius: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 5px;
+    border: none;
+
+}
+
+.yozuv {
+    width: 50px;
+    height: 50px;
+    background-color: linear-gradient(90deg, #2AF598 0%, #009EFD 100%);
+}
+
+.Enter {
+    justify-content: center;
+}
+
+.your {
+    width: 54px;
+    height: 54px;
+    top: 679px;
+    left: 447px;
+    gap: 0px;
+    border: 10px;
+    opacity: 0px;
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+}
+
+.your1 {
+    width: 16px;
+    height: 16px;
+    top: 698px;
+    left: 466px;
+    gap: 0px;
+    opacity: 0px;
+    background: rgba(255, 255, 255, 1);
+    border-radius: 50%;
+    margin-top: 20px;
+}
+
+.your2 {
+    width: 300px;
+    justify-content: center;
+    align-items: center;
+}
+
+.sdfdfgf {
+    align-items: center;
+    display: flex;
+}
+
+.your3 {
+    width: 500px;
+    justify-content: center;
+    align-items: center;
+    padding-top: 250px;
+}
+
+.Dracena {
+    width: 205px;
+    height: 103px;
+    top: 761px;
+    left: 1826px;
+    gap: 0px;
+    border-radius: 24px;
+    border: 1px;
+    opacity: 0px;
+    background-color: rgba(255, 255, 255, 0.2);
+
+}
+
+.Dracena1 {
+    width: 110px;
+    height: 38px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+.Dracena2 {
+    width: 132px;
+    height: 19px;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.Dracena3 {
+    justify-content: end;
+}
+
+.Dracena4 {
+    width: 150px;
+}
+
+.Dracena5 {
+    width: 200px;
+
+}
+
+.your5 {
+    width: 54px;
+    height: 54px;
+    top: 679px;
+    left: 447px;
+    gap: 0px;
+    border: 10px;
+    opacity: 0px;
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.Free {
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 37.54px;
+}
+
+.Free1 {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 23.46px;
+}
+
+.Free2 {
+    gap: 30px;
+    margin-top: 30px;
+}
+
+.Free3 {
+    width: 63px;
+    height: 68.99px;
+    border: 4px;
+}
+
+.Free4 {
+    width: 100%;
+    height: 84px;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.Best {
+    font-size: 50px;
+    font-weight: 500;
+    line-height: 75.07px;
+}
+
+.Best1 {
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 28.15px;
+}
+
+.Best2 {
+    width: 24px;
+    height: 21px;
+}
+
+.Best3 {
+    align-items: center;
+    gap: 30px;
+}
+
+.Sellar1 {
+    width: 400px;
+    height: 100px;
+
+
+
+}
+
+.sellar2 {
+    width: 400px;
+    height: 400px;
+    background: rgba(193, 208, 228, 1);
+    border-radius: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: end;
+}
+
+.sellar3 {
+    width: 329px;
+    height: 260.73;
+    padding: 26px;
+    border-radius: 50px;
+    background: rgba(255, 255, 255, 1);
+
+}
+
+.bg-white {
+    width: 400px;
+    height: 190.73px;
+    border-radius: 50px;
+    background-color: white
+}
+
+.Cammile {
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 37.54px;
+    padding-left: 40px;
+}
+
+.Cammile1 {
+    width: 58.67px;
+    height: 58.67px;
+    margin-top: 15px;
+}
+
+.Cammile2 {
+    width: 120px;
+    height: 24px;
+    padding-left: 40px;
+    margin-top: 10px;
+}
+
+.Cammile3 {
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 37.54px;
+    padding-left: 40px;
+    margin-top: 40px;
+}
+
+.Cammile4 {
+    align-items: center;
+    justify-content: space-between;
+}
+
+.Cammile5 {}
+
+.Product {
+    width: 1483px;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    gap: 15px;
+    margin-top: 70px;
+}
+
+.Interior {
+    font-size: 64px;
+    font-weight: 500;
+    line-height: 75.07px;
+}
+
+.Interior1 {
+
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 28.15px;
+}
+
+.Plant {
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.living {
+    font-size: 64px;
+    font-weight: 600;
+    line-height: 75.07px;
+    padding-left: 200px;
+}
+
+.living1 {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.living4 {
+    width: 1484px;
+    gap: 30px;
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-top: 70px;
+}
+
+.room {
+    width: 735px;
+    height: 549px;
+    border-radius: 50px;
+}
+
+.room1 {
+    width: 734px;
+    height: 404px;
+    border-radius: 50px;
+    margin-top: 20px;
+}
+
+.room2 {
+    width: 717px;
+    height: 995px;
+    border-radius: 50px;
+}
+
+.sh {
+    width: 735px;
+
+}
+
+.sh1 {
+    width: 735px;
+}
+
+.How {
+    font-size: 50px;
+    font-weight: 500;
+    line-height: 75.07px;
+}
+
+.How1 {
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 28.15px;
+}
+
+.How2 {
+    width: 68px;
+    height: 68px;
+    padding: 4.25px;
+
+
+}
+
+.to {
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 37.54px;
+}
+
+.to1 {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23.46px;
+    margin-top: 10px;
+}
+
+.care {
+    gap: 15px;
+    margin-top: 30px;
+}
+
+.Fertilize {
+    width: 1488px;
+    height: 775px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+.nutrients {
+    width: 657px;
+    height: 618px;
+    border-radius: 50px;
+    margin-top: 40px;
+}
+
+.Newslatter {
+    width: 1, 131px;
+    height: 346px;
+    padding: 120px;
+    gap: 8px;
+    opacity: 0px;
+    background: linear-gradient(93.99deg, #566270 0.51%, #283444 100%);
+}
+
+.Newslatter1 {
+    font-size: 48px;
+    font-weight: 500;
+    line-height: 56.3px;
+    color: white;
+}
+
+.box2 {
+    background-color: white;
+    width: 400px;
+    height: 40px;
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 50px;
+    border: none;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+
+.inp1 {
+    width: 256px;
+    height: 40px;
+    background: none;
+    border: none;
+    border-radius: 20px;
+
+}
+
+.btt1 {
+    width: 144px;
+    height: 40px;
+    background: linear-gradient(90deg, #2AF598 0%, #009EFD 100%);
+
+    color: white;
+    border-radius: 50px;
+    border: 1px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 5px;
+
+
+}
+
+.Careers {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 33.6px;
+    color: white;
+}
+
+.Careers1 {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    color: white;
+}
+
+.Careers2 {
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.Address {
+    width: 1513.01px;
+    height: 0px;
+    border: 1px;
+    opacity: 0px;
+    border: 1px solid rgba(255, 255, 255, 1);
+    margin-top: 100px;
+}
+
+.davixq {
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 28.15px;
+    color: white;
+    margin-top: 50px;
+}
+
+.davixq1 {
+    justify-content: center;
+}
+
+.inp1 input::placeholder {
+    color: red;
+    opacity: 0.5;
+
+
+}
